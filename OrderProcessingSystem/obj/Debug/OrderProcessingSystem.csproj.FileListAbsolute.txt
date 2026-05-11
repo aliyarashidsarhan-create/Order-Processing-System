@@ -8,3 +8,23 @@ C:\Users\aliya\OneDrive\Desktop\OrderProcessingSystem\OrderProcessingSystem\Orde
 C:\Users\aliya\OneDrive\Desktop\OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.csproj.CoreCompileInputs.cache
 C:\Users\aliya\OneDrive\Desktop\OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.exe
 C:\Users\aliya\OneDrive\Desktop\OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.pdb
+C:\Users\aliya\OneDrive\Desktop\New folder\OrderProcessingSystem\bin\Debug\OrderProcessingSystem.exe.config
+C:\Users\aliya\OneDrive\Desktop\New folder\OrderProcessingSystem\bin\Debug\OrderProcessingSystem.exe
+C:\Users\aliya\OneDrive\Desktop\New folder\OrderProcessingSystem\bin\Debug\OrderProcessingSystem.pdb
+C:\Users\aliya\OneDrive\Desktop\New folder\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.csproj.AssemblyReference.cache
+C:\Users\aliya\OneDrive\Desktop\New folder\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.Forms.Form1.resources
+C:\Users\aliya\OneDrive\Desktop\New folder\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.Properties.Resources.resources
+C:\Users\aliya\OneDrive\Desktop\New folder\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.csproj.GenerateResource.cache
+C:\Users\aliya\OneDrive\Desktop\New folder\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.csproj.CoreCompileInputs.cache
+C:\Users\aliya\OneDrive\Desktop\New folder\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.exe
+C:\Users\aliya\OneDrive\Desktop\New folder\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.pdb
+C:\Users\aliya\OneDrive\Desktop\new one\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.csproj.AssemblyReference.cache
+C:\Users\aliya\OneDrive\Desktop\new one\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.Forms.Form1.resources
+C:\Users\aliya\OneDrive\Desktop\new one\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.Properties.Resources.resources
+C:\Users\aliya\OneDrive\Desktop\new one\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.csproj.GenerateResource.cache
+C:\Users\aliya\OneDrive\Desktop\new one\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.csproj.CoreCompileInputs.cache
+C:\Users\aliya\OneDrive\Desktop\new one\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.exe
+C:\Users\aliya\OneDrive\Desktop\new one\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.pdb
+C:\Users\aliya\OneDrive\Desktop\new one\OrderProcessingSystem\bin\Debug\OrderProcessingSystem.exe.config
+C:\Users\aliya\OneDrive\Desktop\new one\OrderProcessingSystem\bin\Debug\OrderProcessingSystem.exe
+C:\Users\aliya\OneDrive\Desktop\new one\OrderProcessingSystem\bin\Debug\OrderProcessingSystem.pdb

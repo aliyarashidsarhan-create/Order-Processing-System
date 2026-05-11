@@ -100,7 +100,7 @@
             this.grpCustomer.Controls.Add(this.btnSaveCustomer);
             this.grpCustomer.Location = new System.Drawing.Point(20, 20);
             this.grpCustomer.Name = "grpCustomer";
-            this.grpCustomer.Size = new System.Drawing.Size(450, 130);
+            this.grpCustomer.Size = new System.Drawing.Size(450, 144);
             this.grpCustomer.TabIndex = 0;
             this.grpCustomer.TabStop = false;
             this.grpCustomer.Text = "Customer Information";
@@ -399,7 +399,7 @@
             // lblStatus
             // 
             this.lblStatus.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold);
-            this.lblStatus.Location = new System.Drawing.Point(20, 90);
+            this.lblStatus.Location = new System.Drawing.Point(610, 100);
             this.lblStatus.Name = "lblStatus";
             this.lblStatus.Size = new System.Drawing.Size(300, 30);
             this.lblStatus.TabIndex = 3;

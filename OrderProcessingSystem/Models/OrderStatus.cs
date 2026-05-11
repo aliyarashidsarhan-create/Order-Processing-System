@@ -1,11 +1,11 @@
 ﻿
 namespace OrderProcessingSystem.Models
 {
-    public enum OrderStatus
+    public class OrderStatus
     {
-        Pending,
-        Processing,
-        Shipped,
-        Delivered
+        public const string Pending = "Pending";
+        public const string Processing = "Processing";
+        public const string Shipped = "Shipped";
+        public const string Delivered = "Delivered";
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+
 namespace OrderProcessingSystem.Models
 {
     public class Customer
@@ -22,7 +23,7 @@ namespace OrderProcessingSystem.Models
             get { return name; }
             set
             {
-                if (!string.IsNullOrWhiteSpace(value))
+                if (value != "")
                     name = value;
             }
         }
@@ -32,7 +33,7 @@ namespace OrderProcessingSystem.Models
             get { return email; }
             set
             {
-                if (!string.IsNullOrWhiteSpace(value))
+                if (value != "")
                     email = value;
             }
         }
@@ -44,6 +45,7 @@ namespace OrderProcessingSystem.Models
             Id = id;
             Name = name;
             Email = email;
+
             Orders = new List<Order>();
         }
 

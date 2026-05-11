@@ -10,29 +10,30 @@ namespace OrderProcessingSystem.Models
         public int Id { get; set; }
         public Customer Customer { get; set; }
         public List<OrderItem> Items { get; set; }
-        public OrderStatus Status { get; set; }
+        public string Status { get; set; }
         public DateTime OrderDate { get; set; }
         public Payment PaymentMethod { get; set; }
-
         public Order(int id, Customer customer)
         {
             Id = id;
+
             Customer = customer;
+
             Items = new List<OrderItem>();
+
             Status = OrderStatus.Pending;
+
             OrderDate = DateTime.Now;
         }
 
         public void AddProduct(Product product, int quantity)
         {
-            if (quantity <= 0)
-                throw new Exception("Quantity must be greater than zero.");
+            if (quantity > 0 && quantity <= product.StockQuantity)
+            {
+                Items.Add(new OrderItem(product, quantity));
 
-            if (quantity > product.StockQuantity)
-                throw new Exception("Not enough stock.");
-
-            Items.Add(new OrderItem(product, quantity));
-            product.StockQuantity -= quantity;
+                product.StockQuantity -= quantity;
+            }
         }
 
         public decimal CalculateTotal()
@@ -54,12 +55,10 @@ namespace OrderProcessingSystem.Models
 
         public string ConfirmOrder()
         {
-            if (PaymentMethod == null)
-                throw new Exception("Please select a payment method.");
-
             Status = OrderStatus.Processing;
 
             decimal total = CalculateTotal();
+
             string paymentMessage = PaymentMethod.Pay(total);
 
             string shippingMessage = Ship();
@@ -70,6 +69,7 @@ namespace OrderProcessingSystem.Models
         public string Ship()
         {
             Status = OrderStatus.Shipped;
+
             return "Order has been shipped successfully.";
         }
     }
