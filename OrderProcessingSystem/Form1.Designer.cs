@@ -318,7 +318,7 @@
             // 
             // btnAddToOrder
             // 
-            this.btnAddToOrder.BackColor = System.Drawing.Color.Maroon;
+            this.btnAddToOrder.BackColor = System.Drawing.Color.DarkRed;
             this.btnAddToOrder.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAddToOrder.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnAddToOrder.Location = new System.Drawing.Point(300, 135);

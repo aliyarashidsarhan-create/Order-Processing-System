@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\",
   "Documents": [
     {
@@ -29,6 +30,17 @@
     {
       "AbsoluteMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\users\\aliya\\onedrive\\desktop\\new one\\orderprocessingsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\maaa7\\OneDrive\\Desktop\\project\\Order-Processing-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\users\\maaa7\\onedrive\\desktop\\project\\order-processing-system\\orderprocessingsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\users\\maaa7\\onedrive\\desktop\\project\\order-processing-system\\orderprocessingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> f9953f5dd720ce5e355a44c0943bdf71faa8f104
     }
   ],
   "DocumentGroupContainers": [
@@ -38,6 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 6,
           "Children": [
             {
@@ -116,18 +129,42 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-11T12:48:17.052Z",
+=======
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maaa7\\OneDrive\\Desktop\\project\\Order-Processing-System\\OrderProcessingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\maaa7\\OneDrive\\Desktop\\project\\Order-Processing-System\\OrderProcessingSystem\\Program.cs",
+              "RelativeToolTip": "OrderProcessingSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T12:14:57.201Z",
+>>>>>>> f9953f5dd720ce5e355a44c0943bdf71faa8f104
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\OrderProcessingSystem\\Form1.cs",
               "RelativeDocumentMoniker": "OrderProcessingSystem\\Form1.cs",
               "ToolTip": "C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\OrderProcessingSystem\\Form1.cs [Design]",
               "RelativeToolTip": "OrderProcessingSystem\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-11T12:37:36.524Z",
+=======
+              "DocumentMoniker": "C:\\Users\\maaa7\\OneDrive\\Desktop\\project\\Order-Processing-System\\OrderProcessingSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\maaa7\\OneDrive\\Desktop\\project\\Order-Processing-System\\OrderProcessingSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "OrderProcessingSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T12:14:57.012Z",
+>>>>>>> f9953f5dd720ce5e355a44c0943bdf71faa8f104
               "EditorCaption": " [Design]"
             }
           ]
