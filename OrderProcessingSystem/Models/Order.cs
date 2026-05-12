@@ -8,13 +8,13 @@ namespace OrderProcessingSystem.Models
     // Order class implements IShippable interface
     public class Order : IShippable
     {
-        // Property to store order ID
+        
         public int Id { get; set; }
 
         // Property to store customer information
         public Customer Customer { get; set; }
 
-        // List to store all order items
+      
         public List<OrderItem> Items { get; set; }
 
         // Property to store current order status
@@ -29,13 +29,12 @@ namespace OrderProcessingSystem.Models
         // Constructor to initialize order data
         public Order(int id, Customer customer)
         {
-            // Assign order ID
+         
             Id = id;
 
-            // Assign customer object
+      
             Customer = customer;
 
-            // Create empty list for items
             Items = new List<OrderItem>();
 
             // Set default order status
@@ -51,7 +50,7 @@ namespace OrderProcessingSystem.Models
             // Check if quantity is valid and available in stock
             if (quantity > 0 && quantity <= product.StockQuantity)
             {
-                // Add product as order item
+            
                 Items.Add(new OrderItem(product, quantity));
 
                 // Reduce product stock after adding
@@ -68,7 +67,7 @@ namespace OrderProcessingSystem.Models
             // Loop through all order items
             foreach (OrderItem item in Items)
             {
-                // Add item subtotal to total
+              
                 total += item.SubTotal;
             }
 
@@ -89,7 +88,7 @@ namespace OrderProcessingSystem.Models
             // Change order status to processing
             Status = OrderStatus.Processing;
 
-            // Calculate total amount
+    
             decimal total = CalculateTotal();
 
             // Process payment
