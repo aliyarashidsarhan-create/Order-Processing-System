@@ -1,46 +1,38 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\users\\aliya\\onedrive\\desktop\\new one\\orderprocessingsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\users\\aliya\\onedrive\\desktop\\new one\\orderprocessingsystem\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\orderprocessingsystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\users\\aliya\\onedrive\\desktop\\new one\\orderprocessingsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\users\\aliya\\onedrive\\desktop\\new one\\orderprocessingsystem\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\orderprocessingsystem\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\users\\aliya\\onedrive\\desktop\\new one\\orderprocessingsystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\users\\aliya\\onedrive\\desktop\\new one\\orderprocessingsystem\\models\\clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\models\\clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\users\\aliya\\onedrive\\desktop\\new one\\orderprocessingsystem\\models\\electronicsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\orderprocessingsystem\\models\\electronicsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\models\\electronicsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\users\\aliya\\onedrive\\desktop\\new one\\orderprocessingsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\orderprocessingsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-  "WorkspaceRootPath": "C:\\Users\\maaa7\\OneDrive\\Desktop\\project\\Order-Processing-System\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\users\\maaa7\\onedrive\\desktop\\project\\order-processing-system\\orderprocessingsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\users\\maaa7\\onedrive\\desktop\\project\\order-processing-system\\orderprocessingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> f9953f5dd720ce5e355a44c0943bdf71faa8f104
+      "AbsoluteMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\orderprocessingsystem\\models\\clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\models\\clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\orderprocessingsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B41AC8D-8B1B-4EC6-92E2-0A1854CE3D0D}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,12 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\OrderProcessingSystem\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\OrderProcessingSystem\\Models\\OrderItem.cs",
+              "RelativeToolTip": "OrderProcessingSystem\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T05:38:39.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ClothingProduct.cs",
               "DocumentMoniker": "C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\OrderProcessingSystem\\Models\\ClothingProduct.cs",
               "RelativeDocumentMoniker": "OrderProcessingSystem\\Models\\ClothingProduct.cs",
@@ -63,12 +67,11 @@
               "RelativeToolTip": "OrderProcessingSystem\\Models\\ClothingProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T12:47:05.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T04:26:35.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\OrderProcessingSystem\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "OrderProcessingSystem\\Models\\Customer.cs",
@@ -76,25 +79,24 @@
               "RelativeToolTip": "OrderProcessingSystem\\Models\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T12:45:21.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T04:26:35.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\OrderProcessingSystem\\Models\\Order.cs",
               "RelativeDocumentMoniker": "OrderProcessingSystem\\Models\\Order.cs",
               "ToolTip": "C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\OrderProcessingSystem\\Models\\Order.cs",
               "RelativeToolTip": "OrderProcessingSystem\\Models\\Order.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAkwA4AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T12:43:04.24Z",
+              "WhenOpened": "2026-05-12T04:26:35.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OrderStatus.cs",
               "DocumentMoniker": "C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\OrderProcessingSystem\\Models\\OrderStatus.cs",
               "RelativeDocumentMoniker": "OrderProcessingSystem\\Models\\OrderStatus.cs",
@@ -102,25 +104,25 @@
               "RelativeToolTip": "OrderProcessingSystem\\Models\\OrderStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T12:38:01.199Z",
+              "WhenOpened": "2026-05-12T04:26:35.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\OrderProcessingSystem\\Models\\Product.cs",
               "RelativeDocumentMoniker": "OrderProcessingSystem\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\OrderProcessingSystem\\Models\\Product.cs",
               "RelativeToolTip": "OrderProcessingSystem\\Models\\Product.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowEYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T12:49:49.622Z",
+              "WhenOpened": "2026-05-12T04:26:35.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ElectronicsProduct.cs",
               "DocumentMoniker": "C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\OrderProcessingSystem\\Models\\ElectronicsProduct.cs",
               "RelativeDocumentMoniker": "OrderProcessingSystem\\Models\\ElectronicsProduct.cs",
@@ -128,44 +130,18 @@
               "RelativeToolTip": "OrderProcessingSystem\\Models\\ElectronicsProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T12:48:17.052Z",
-=======
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\maaa7\\OneDrive\\Desktop\\project\\Order-Processing-System\\OrderProcessingSystem\\Program.cs",
-              "RelativeDocumentMoniker": "OrderProcessingSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\maaa7\\OneDrive\\Desktop\\project\\Order-Processing-System\\OrderProcessingSystem\\Program.cs",
-              "RelativeToolTip": "OrderProcessingSystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T12:14:57.201Z",
->>>>>>> f9953f5dd720ce5e355a44c0943bdf71faa8f104
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T04:26:35.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
-<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\OrderProcessingSystem\\Form1.cs",
               "RelativeDocumentMoniker": "OrderProcessingSystem\\Form1.cs",
               "ToolTip": "C:\\Users\\aliya\\OneDrive\\Desktop\\new one\\OrderProcessingSystem\\Form1.cs [Design]",
               "RelativeToolTip": "OrderProcessingSystem\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T12:37:36.524Z",
-=======
-              "DocumentMoniker": "C:\\Users\\maaa7\\OneDrive\\Desktop\\project\\Order-Processing-System\\OrderProcessingSystem\\Form1.cs",
-              "RelativeDocumentMoniker": "OrderProcessingSystem\\Form1.cs",
-              "ToolTip": "C:\\Users\\maaa7\\OneDrive\\Desktop\\project\\Order-Processing-System\\OrderProcessingSystem\\Form1.cs [Design]",
-              "RelativeToolTip": "OrderProcessingSystem\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T12:14:57.012Z",
->>>>>>> f9953f5dd720ce5e355a44c0943bdf71faa8f104
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-12T04:26:37.425Z"
             }
           ]
         }
